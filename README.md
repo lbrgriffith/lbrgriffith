@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <em>a fun Questown project providing consumers with an awesome entertainment experience!</em>
 - 🌱 I’m currently learning  the knowledge and skills required to sit the AZ-204 Developing Solutions for Microsoft Azure exam.
 - 💬 Ask me about .NET-based solutions.
-- ⚡ Fun fact: I love donuts!
+- ⚡ Fun fact: I ❤️ donuts!
 
 Technology reinvents how we live and work at an enormously fast pace. I’ve spent my career cultivating my passion for programming through continual learning, demanding the best from both myself and my teams to bring about enormous success. My analytical skills and critical thinking have afforded me the ability to streamline operations, putting in place best practices and developing state-of-the-art solutions.
 
