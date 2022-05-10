@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I ❤️ donuts!
 - 📁 Working on a small public project using the Rust language to create empty files (with a slight twist optionally adding starter content) 😄
 
+<a href="https://twitter.com/ricardogriffith?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ricardogriffith</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Technology reinvents how we live and work at an enormously fast pace. I’ve spent my career cultivating my passion for programming through continual learning, demanding the best from both myself and my teams to bring about enormous success. My analytical skills and critical thinking have afforded me the ability to streamline operations, putting in place best practices and developing state-of-the-art solutions.
 
 My workflows and processes ensure that technology operates at its greatest potential. My innovative thought processes create a clear path forward, bypassing complexity and adversity, to both meet and exceed goals.
