@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on <em>a fun Questown project providing consumers with an awesome entertainment experience!</em>
+- 🔭 Working on <em>a project offering  a truly awesome entertainment experience merging physical activity with technology!</em>
 - ❤️ Working on another project to help businesses help people...stay tuned!
 - 🌱 I’m currently learning  the knowledge and skills required to sit the AZ-204 Developing Solutions for Microsoft Azure exam.
 - 💬 Ask me about .NET-based solutions.
