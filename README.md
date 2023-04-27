@@ -23,25 +23,25 @@ Committed to self-improvement, I actively pursue certifications and continuing e
 With a proven record of leading by example, maintaining integrity, and incorporating efficiency and innovation throughout my career, I am uniquely positioned to make a lasting impact in my field. As someone who comprehends the intricacies of application analysis, the intersection of business and technology, and the importance of constant innovation, I am excited to dive in and make a difference!
 
 ## Skills
-Skills
-**Languages**: C# | VB | Python | Swift | JavaScript | T-SQL | VBA
 
-**Web**: HTML | CSS | ASP.NET | .NET Core | MVC | .NET 5 & 6 | React | Bootstrap | jQuery | IIS | Apache
+Programming Languages: C# | VB | Python | Swift | JavaScript | T-SQL | VBA
 
-**Frameworks and Libraries**: Microsoft .NET Framework | OzCode | DevExpress
+Web Technologies: HTML | CSS | ASP.NET | .NET Core | MVC | .NET 5 & 6 | React | Bootstrap | jQuery | IIS | Apache
 
-**Tools and IDEs**: Visual Studio | Visual Studio Code | Azure Data Studio | XCode | PowerShell | RedGate SQL Toolbelt | Power Automate Desktop
+Frameworks & Libraries: Microsoft .NET Framework | OzCode | DevExpress
 
-**Version Control**: TFS | Git | GitHub | Atlassian Bitbucket
+Development Tools & IDEs: Visual Studio | Visual Studio Code | Azure Data Studio | XCode | PowerShell | RedGate SQL Toolbelt | Power Automate Desktop
 
-**Project Management & Collaboration**: Atlassian TeamCity | Jira | Confluence | ClickUp | MS Project
+Version Control Systems: TFS | Git | GitHub | Atlassian Bitbucket
 
-Database: Microsoft SQL Server | Access | PostgreSQL | MySQL | SQLite | SQL Server Integration Services (SSIS) | SQL Server Management Studio (SSMS) | Master Data Services (MDS) | SQL Server Analysis Services (SSAS) | FileMaker Pro
+Project Management & Collaboration: Atlassian TeamCity | Jira | Confluence | ClickUp | MS Project
+
+Databases: Microsoft SQL Server | Access | PostgreSQL | MySQL | SQLite | SSIS | SSMS | MDS | SSAS | FileMaker Pro
 
 Reporting & Analytics: Microsoft Power BI | Crystal Reports
 
-Cloud: Amazon Web Services (AWS) S3 | VPC | EC2 | Route53 | WAF | SNS | SES | RDS | EFS | AWS Config | Inspector | WorkMail | WorkDocs | Lambda | AWS Certificate Services | CloudFront | CloudWatch | CloudTrail | Azure
+Cloud Services: AWS (S3, VPC, EC2, Route53, WAF, SNS, SES, RDS, EFS, AWS Config, Inspector, WorkMail, WorkDocs, Lambda, AWS Certificate Services, CloudFront, CloudWatch, CloudTrail) | Azure
 
 Methodologies: Agile | Scrum
 
-Other: Docker | XML | JSON | Redgate | Power Automate | Decisions IPA
+Miscellaneous: Docker | XML | JSON | Redgate | Power Automate | Decisions IPA
