@@ -23,24 +23,24 @@ With a proven record of leading by example, maintaining integrity, and incorpora
 
 ## Skills
 
-Programming Languages: C# | VB | Python | Swift | JavaScript | T-SQL | VBA
+Programming Languages: C# | VB.NET | Python | Swift | JavaScript | T-SQL | VBA | Rust
 
-Web Technologies: HTML | CSS | ASP.NET | .NET Core | MVC | .NET 5 & 6 | React | Bootstrap | jQuery | IIS | Apache
+Web Technologies: HTML | CSS | ASP.NET | .NET Core | .NET 6 | Bootstrap | jQuery | IIS | NGINX
 
-Frameworks & Libraries: Microsoft .NET Framework | OzCode | DevExpress
+Frameworks & Libraries: Microsoft .NET Framework | DevExpress
 
-Development Tools & IDEs: Visual Studio | Visual Studio Code | Azure Data Studio | XCode | PowerShell | RedGate SQL Toolbelt | Power Automate Desktop
+Development Tools & IDEs: Visual Studio | Visual Studio Code | Azure Data Studio | XCode 
 
 Version Control Systems: TFS | Git | GitHub | Atlassian Bitbucket
 
 Project Management & Collaboration: Atlassian TeamCity | Jira | Confluence | ClickUp | MS Project
 
-Databases: Microsoft SQL Server | Access | PostgreSQL | MySQL | SQLite | SSIS | SSMS | MDS | SSAS | FileMaker Pro
+Databases: Microsoft SQL Server | Access | PostgreSQL | MySQL | SQLite | SSIS | SSMS | MDS | SSAS
 
 Reporting & Analytics: Microsoft Power BI | Crystal Reports
 
 Cloud Services: AWS (S3, VPC, EC2, Route53, WAF, SNS, SES, RDS, EFS, AWS Config, Inspector, WorkMail, WorkDocs, Lambda, AWS Certificate Services, CloudFront, CloudWatch, CloudTrail) | Azure
 
-Methodologies: Agile | Scrum
+Project Management: Agile | Scrum | Waterfall
 
-Miscellaneous: Docker | XML | JSON | Redgate | Power Automate | Decisions IPA
+Miscellaneous: Docker | XML | JSON | Redgate | Power Automate | Decisions IPA | PowerShell | RedGate SQL Toolbelt | Power Automate Desktop
