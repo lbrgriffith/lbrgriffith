@@ -25,21 +25,21 @@ With a proven record of leading by example, maintaining integrity, and incorpora
 
 Programming Languages: C# | VB.NET | Python | Swift | JavaScript | VBA | Rust
 
-Web Technologies: HTML | CSS | ASP.NET | .NET Core | .NET 6 | Bootstrap | jQuery | IIS | NGINX
+Web Technologies: HTML | CSS | ASP.NET | .NET Core | .NET 6 - 8 | Bootstrap | jQuery | IIS | NGINX
 
-Frameworks & Libraries: Microsoft .NET Framework | DevExpress
+Frameworks & Libraries: Microsoft .NET Framework 2.0 - 8.0 | DevExpress
 
-Development Tools & IDEs: Visual Studio | Visual Studio Code | Azure Data Studio | XCode 
+Development Tools & IDEs: Visual Studio Professional\Enterprise | Visual Studio Code | Azure Data Studio | XCode 
 
-Version Control Systems: TFS | Git | GitHub | Atlassian Bitbucket
+Version Control Systems: TFS | Git | GitHub | Atlassian Bitbucket | Azure Repos
 
-Project Management & Collaboration: Atlassian TeamCity | Jira | Confluence | ClickUp | MS Project
+Project Management Tools: Atlassian TeamCity | Jira | Confluence | ClickUp | MS Project | Microsoft Planner
 
-Databases: Microsoft SQL Server | Access | PostgreSQL | MySQL | SQLite | SSIS | SSMS | MDS | SSAS | AWS Aurora (PostgreSQL)
+Databases: Microsoft SQL Server | Access | PostgreSQL | MySQL | SQLite | AWS Aurora (PostgreSQL) | SSIS | SSMS | MDS | SSAS
 
 Reporting & Analytics: SQL | Microsoft Power BI | Crystal Reports 
 
-Cloud Services: AWS (S3, VPC, EC2, Route53, WAF, SNS, SES, RDS, EFS, AWS Config, Inspector, WorkMail, WorkDocs, Lambda, AWS Certificate Services, CloudFront, CloudWatch, CloudTrail) | Azure
+Cloud Services: AWS (S3, VPC, EC2, Route53, WAF, SNS, SES, RDS, EFS, AWS Config, Inspector, WorkMail, WorkDocs, Lambda, AWS Certificate Services, CloudFront, CloudWatch, CloudTrail) | Azure Blob Storage | Azure AI Services
 
 Project Management: Agile | Scrum | Waterfall
 
