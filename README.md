@@ -39,7 +39,7 @@ Databases: Microsoft SQL Server | Access | PostgreSQL | MySQL | SQLite | AWS Aur
 
 Reporting & Analytics: SQL | Microsoft Power BI | Crystal Reports 
 
-Cloud Services: AWS (S3, VPC, EC2, Route53, WAF, SNS, SES, RDS, EFS, AWS Config, Inspector, WorkMail, WorkDocs, Lambda, AWS Certificate Services, CloudFront, CloudWatch, CloudTrail) | Azure Blob Storage | Azure AI Services
+Cloud Services: Amazon Web Services (AWS): S3, VPC, EC2, Route53, WAF, SNS, RDS, EFS, Config, Inspector, WorkMail, WorkDocs, Lambda, Certificate Services, CloudFront, CloudWatch, CloudTrail | Microsoft Azure Cloud | Azure AI Document Intelligence | Azure Blob Storage | Azure Functions
 
 Project Management: Agile | Scrum | Waterfall
 
