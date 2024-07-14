@@ -25,7 +25,7 @@ With a proven record of leading by example, upholding integrity, and integrating
 
 Programming Languages: C# | VB.NET | Python | Swift | JavaScript | VBA | Rust
 
-Web Technologies: HTML | CSS | ASP.NET | .NET Core | .NET 6 - 8 | Bootstrap | jQuery | IIS | NGINX
+Web Technologies: HTML | CSS | ASP.NET | .NET Core | .NET 1 - 8 | Bootstrap | jQuery | IIS | NGINX
 
 Frameworks & Libraries: Microsoft .NET Framework 2.0 - 8.0 | DevExpress
 
