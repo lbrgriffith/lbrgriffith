@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🎮 Creating a fun and entertaining gaming experience blending physical activity with technology for a truly amazing time!
+- 🎮 Creating a fun and entertaining online experience blending physical activity with technology for a truly amazing time!
 - 📚 Currently acquiring the knowledge and skills needed to pass the AZ-204 Developing Solutions for Microsoft Azure exam.
 - 💻 Feel free to ask me about .NET-based solutions.
 - 🍩 Fun fact: I'm a huge fan of donuts!
