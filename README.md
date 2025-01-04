@@ -65,9 +65,9 @@ Docker | XML | JSON | Redgate | Decisions IPA | PowerShell | RedGate SQL Toolbel
 
 ### Let’s Connect
 
-- **LinkedIn**: [Your LinkedIn Profile URL](#)  
-- **Twitter**: [Your Twitter Handle](#)  
-- **Website/Blog**: [Your Personal Website](#)  
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ricardo-griffith/)  
+- **Bluesky**: [@ricardogriffith.bsky.social](@ricardogriffith.bsky.social)  
+- **Website/Blog**: [Wrote a few technical articles](https://articles.ricardogriffith.com)  
 
 I’m always open to chatting about interesting projects, gaming tips, or the best donut shops around. Feel free to [reach out and say hi!](#)
 
