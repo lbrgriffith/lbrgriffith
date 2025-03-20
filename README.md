@@ -2,10 +2,10 @@
 
 I’m a passionate developer who thrives on continuous learning and creative problem-solving. Whether I’m brewing up fresh solutions in .NET or diving into the depths of Rust, I’m driven by a love of technology, innovation, and (of course) donuts.
 
-- 🎮 **Big Fan of Video Games** – I love gaming in my downtime and exploring new ways to blend tech with fun.
-- 👨‍🎓 **Boston University Graduate Certificate Student** – Pursuing a part-time program in Information Technology, because learning never stops!
-- 📚 **Studying for AZ-204** – Preparing to pass the *Developing Solutions for Microsoft Azure* exam and always up for a challenge.
-- 🍩 **Donut Enthusiast** – If there’s a donut shop around, I’m there to sample the best glaze in town.
+- 🎮 **Big Fan of Video Games** – I love gaming in my downtime and exploring new ways to blend tech with fun (ecven tried to develop one or two).
+- 👨‍🎓 **Boston University Graduate Certificate Student** – Recently obtained a Graduate Certificate in Information Technology because learning never stops!
+- 📚 **Studying for the AI-102** – Preparing to pass the *Designing and Implementing a Microsoft Azure AI Solution* exam and always up for a challenge.
+- 🍩 **Baked Goods Enthusiast** – If there’s a cafe around, I’m there to sample the baked goods and coffee.
 - 💻 **Ask Me About .NET** – I’m always happy to share insights about .NET-based solutions and development best practices.
 - 🦀 **Rust Project in Progress** – Currently crafting a small public tool to generate empty files (with optional starter content). Stay tuned!
 
