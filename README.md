@@ -4,6 +4,7 @@ I’m a passionate developer who thrives on continuous learning and creative pro
 
 - 🎮 **Big Fan of Video Games** – I love gaming in my downtime and exploring new ways to blend tech with fun (ecven tried to develop one or two).
 - 👨‍🎓 **Boston University Graduate Certificate Student** – Recently obtained a Graduate Certificate in Information Technology because learning never stops!
+- 👨‍🎓 **Boston University Masters of Science Student** - in the process of completing my Master of Science in Computer Information Systems (yes, still learning!) 
 - 📚 **Studying for the AI-102** – Preparing to pass the *Designing and Implementing a Microsoft Azure AI Solution* exam and always up for a challenge.
 - 🍩 **Baked Goods Enthusiast** – If there’s a cafe around, I’m there to sample the baked goods and coffee.
 - 💻 **Ask Me About .NET** – I’m always happy to share insights about .NET-based solutions and development best practices.
