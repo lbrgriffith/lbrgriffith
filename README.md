@@ -1,79 +1,95 @@
-# Hi there, I'm L. B. Ricardo Griffith!
+# Hi, I’m Ricardo Griffith 👋
 
-I’m a passionate developer who thrives on continuous learning and creative problem-solving. Whether I’m brewing up fresh solutions in .NET or diving into the depths of Rust, I’m driven by a love of technology, innovation, and (of course) donuts.
+I’m a **Technical Architect and hands-on builder** with a strong foundation in modern .NET, cloud-native architecture, and pragmatic delivery. I enjoy designing systems that scale, mentoring teams, and staying close enough to the code to keep architecture honest.
 
-- 🎮 **Big Fan of Video Games** – I love gaming in my downtime and exploring new ways to blend tech with fun (ecven tried to develop one or two).
-- 👨‍🎓 **Boston University Graduate Certificate Student** – Recently obtained a Graduate Certificate in Information Technology because learning never stops!
-- 👨‍🎓 **Boston University Masters of Science Student** - in the process of completing my Master of Science in Computer Information Systems (yes, still learning!) 
-- 📚 **Studying for the AI-102** – Preparing to pass the *Designing and Implementing a Microsoft Azure AI Solution* exam and always up for a challenge.
-- 🍩 **Baked Goods Enthusiast** – If there’s a cafe around, I’m there to sample the baked goods and coffee.
-- 💻 **Ask Me About .NET** – I’m always happy to share insights about .NET-based solutions and development best practices.
-- 🦀 **Rust Project in Progress** – Currently crafting a small public tool to generate empty files (with optional starter content). Stay tuned!
+My work lives at the intersection of **engineering execution and technical leadership**. I care about clean abstractions, resilient infrastructure, and building platforms that make other developers faster and safer.
+
+Outside of work, you’ll still find me exploring games, experimenting with new tech, and hunting down a solid coffee and pastry ☕🍩
 
 ---
 
-## About Me
+## What I Do
 
-In a rapidly evolving technological landscape, I’ve dedicated my career to the art and science of programming—driven by a passion for continuous learning and excellence. My journey is marked by a commitment to enhancing operations, implementing best practices, and crafting innovative solutions through strong analytical and critical thinking skills.
-
-I excel in creating streamlined workflows and processes that maximize technological potential. My innovative mindset paves the way for navigating complexities and challenges, ensuring the achievement—and surpassing—of goals.
-
-As a proactive leader, I foster collaboration to address intricate technological issues, enhancing user experiences, capabilities, and productivity. Under my guidance, numerous team members have produced outstanding work and advanced in their careers.
-
-I am committed to self-improvement, actively pursuing certifications (like AZ-204) and continuing education opportunities, believing that learning is a lifelong journey essential for applying and expanding knowledge.
-
-With a proven record of leading by example, upholding integrity, and integrating efficiency and innovation, I am uniquely positioned to make a lasting impact in my field. Understanding the intricacies of application analysis, the intersection of business and technology, and the importance of constant innovation, I am eager to contribute and drive meaningful change.
+- Design and build **cloud-native applications** using modern .NET and AWS  
+- Lead and mentor teams while remaining **deeply technical**
+- Translate business needs into **secure, maintainable architectures**
+- Modernize legacy systems without losing institutional knowledge
+- Continuously learn. Continuously refine.
 
 ---
 
-## Technical Skills
+## Technical Focus
+
+### Core Stack
+- **.NET 10** (ASP.NET Core, Minimal APIs, Web APIs)
+- **AWS-first architecture**: EC2, VPC, Route 53, RDS (PostgreSQL), SES, CloudWatch
+- **Containerized workloads** with Docker
+- API-first, infrastructure-aware design
 
 ### Programming Languages
-C# | VB.NET | Python | Swift | JavaScript | VBA | Rust
+C# (primary) | Python | JavaScript | Swift | Rust (actively developing foundations)  
+<sub>Legacy & historical experience: VB.NET, VBA</sub>
 
-### Web Technologies
-HTML | CSS | ASP.NET | .NET Core (1.0 – 8.0) | Bootstrap | jQuery | IIS | NGINX
+### Cloud Platforms
+**AWS (Primary)**  
+App Runner, EC2, VPC, Route 53, RDS, S3, CloudWatch, CloudTrail, WAF, Lambda, SES, EFS, CloudFront, IAM
 
-### Frameworks & Libraries
-Microsoft .NET Framework (2.0 – 8.0) | DevExpress
+**Microsoft Azure (Secondary)**  
+Azure Functions, Azure Blob Storage, Azure AI Document Intelligence  
+<sub>Used selectively where it best fits the problem</sub>
 
-### Development Tools & IDEs
-Visual Studio (Professional/Enterprise) | Visual Studio Code | Azure Data Studio | Xcode
+### Web & Application Technologies
+ASP.NET Core | REST APIs | HTML | CSS | Bootstrap | NGINX | IIS  
+<sub>Legacy exposure: ASP.NET Web Forms, early .NET Core versions</sub>
 
-### Version Control
-TFS | Git | GitHub | Atlassian Bitbucket | Azure Repos
+### Databases & Data
+PostgreSQL | Microsoft SQL Server | SQLite | MySQL | AWS Aurora (PostgreSQL)  
+SSMS | SSIS | Power BI | SQL performance tuning
 
-### Project Management Tools
-Atlassian TeamCity | Jira | Confluence | ClickUp | MS Project | Microsoft Planner
+### DevOps & Tooling
+Docker | Git | GitHub | Bitbucket | Azure Repos  
+Visual Studio | VS Code | Azure Data Studio  
+CI/CD pipelines, environment-based configuration, secrets management
 
-### Databases
-Microsoft SQL Server | Access | PostgreSQL | MySQL | SQLite | AWS Aurora (PostgreSQL) | SSIS | SSMS | MDS | SSAS
-
-### Reporting & Analytics
-SQL | Microsoft Power BI | Crystal Reports
-
-### Cloud Services
-**AWS**: S3, VPC, EC2, Route53, WAF, SNS, RDS, EFS, Config, Inspector, WorkMail, WorkDocs, Lambda, Certificate Services, CloudFront, CloudWatch, CloudTrail  
-**Microsoft Azure**: Azure AI Document Intelligence, Azure Blob Storage, Azure Functions
-
-### Project Management
-Agile | Scrum | Waterfall
-
-### Miscellaneous
-Docker | XML | JSON | Redgate | Decisions IPA | PowerShell | RedGate SQL Toolbelt | Power Automate Desktop
+### Architecture & Delivery
+Agile | Scrum | Waterfall (when appropriate)  
+API design | System integration | Application modernization | Security-aware design
 
 ---
 
-### Let’s Connect
+## AI-Assisted Development (Vibe Coding)
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ricardo-griffith/)  
-- **Bluesky**: [@ricardogriffith.bsky.social](@ricardogriffith.bsky.social)  
-- **Website/Blog**: [Wrote a few technical articles](https://articles.ricardogriffith.com)  
+I actively use AI as a **force multiplier** in my development workflow, treating it as a collaborative coding partner rather than a replacement for engineering judgment.
 
-I’m always open to chatting about interesting projects, gaming tips, or the best donut shops around. Feel free to [reach out and say hi!](#)
+- **OpenAI Codex** – rapid prototyping, refactoring, and exploratory coding
+- **GitHub Copilot CLI** – command-line driven development assistance
+- **Claude Code** – reasoning-heavy refactors, architecture exploration, and code review
+- **Google Gemini CLI** – alternative model perspectives and comparative problem solving
 
-Thanks for stopping by—and happy coding!
+I apply these tools thoughtfully to accelerate delivery while maintaining code quality, security, and architectural intent.
 
 ---
 
-<sub>“The only way to do great work is to love what you do.” – Steve Jobs</sub>
+## On Learning & Growth
+
+I believe strong architects never stop learning. Some areas I’m actively investing in:
+
+- Deepening **cloud-native patterns** on AWS
+- Writing safer, more explicit code with **Rust**
+- Balancing leadership responsibilities with hands-on technical work
+- Refining how teams communicate architecture and intent
+
+Certifications and coursework reflect different stages of my journey. Some are historical, some are current, all contributed to how I think and build today.
+
+---
+
+## Let’s Connect
+
+- **LinkedIn**: https://www.linkedin.com/in/ricardo-griffith/  
+- **Bluesky**: @ricardogriffith.bsky.social  
+- **Writing**: https://articles.ricardogriffith.com  
+
+I’m always happy to talk architecture, system design, platform decisions, or the occasional game recommendation.
+
+Thanks for stopping by, and happy building 🚀
+
