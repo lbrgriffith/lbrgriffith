@@ -1,6 +1,7 @@
 # Hi, I’m Ricardo Griffith 👋
 
-<img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/88466f0d-c195-45ae-a8f9-a1af923bc3e2" />
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/f8a42b1c-0441-41c4-9361-d5f9c166fa70" />
+
 
 
 I’m a **Technical Architect and hands-on builder** with a strong foundation in modern .NET, cloud-native architecture, and pragmatic delivery. I enjoy designing systems that scale, mentoring teams, and staying close enough to the code to keep architecture honest.
